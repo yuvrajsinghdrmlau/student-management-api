@@ -3,7 +3,7 @@
 
 A simple REST API built using **FastAPI** to manage student records.
 
-## Features
+## Features 
 
 * Create student
 * Get all students
