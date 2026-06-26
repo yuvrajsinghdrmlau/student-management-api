@@ -9,7 +9,6 @@ A simple REST API built using **FastAPI** to manage student records.
 * Get all students
 * Get student by ID
 * Delete student
-
 ## Tech Stack
 
 * Python
