@@ -17,6 +17,7 @@ A simple REST API built using **FastAPI** to manage student records.
 * SQLAlchemy
 * SQLite
 
+
 ## Run Project
 
 Install dependencies
